@@ -1,7 +1,6 @@
 # Allroundmedikamente
 Ich entwickle eine Formel einer Tablette um den Nährstoffverbrauch usw. einer Person abzudecken.
 VOR HERSTELLUNG DISCLAIMER.md DURCHLESEN.
-FÜR GESUNDHEITLICHE SCHÄDEN WIRD KEINE HAFTUNG ÜBERNOMMEN
 
 ---
 
